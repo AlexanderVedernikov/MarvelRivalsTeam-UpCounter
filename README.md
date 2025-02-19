@@ -1,5 +1,5 @@
 Absolutely horrendous code but it works\
-I'm honestly so surprised it runs this fast\
+I'm honestly so surprised it runs this fast
 
 Current Output:\
 For a team of 6:\
